@@ -112,5 +112,24 @@ nav ul li a:hover {
 
 .home-text p{
     font-size: 1rem;
+    color: #777474;
+}
+
+.main-login{
+    width:120px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5a76fd;
+    color: #ffff;
+    box-shadow: 5px 10px 30px rgb(99,118,253,0.5);
+    text-transform: uppercase;
+} 
+
+.main-login:hover{
+    background-color: #5a62fd;
+    transition: all ease 0.3s;
+    
 }
 

@@ -306,3 +306,16 @@ nav ul li a:hover {
     box-shadow: 5px 10px 30px rgba(90,118,225,0.5);
     transition: all ease 0.3s;
 }
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 5%;
+    border-top: 1px solid rgba(167,167,167,0.2);
+}
+footer p,
+footer a{
+    color: #5e5e5e;
+}
+@media

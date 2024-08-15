@@ -33,6 +33,7 @@ a {
 
 nav {
     display: flex;
+    list-style-type: none;
     align-items: center;
     justify-content: space-around;
     padding: 10px 30px;
